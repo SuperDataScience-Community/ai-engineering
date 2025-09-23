@@ -24,7 +24,7 @@ I would particularly welcome any suggestions you might have regarding the course
 If you have questions around your career, if you are looking to transition into the data field, have more general questions about Data Science, Machine Learning and AI, please do reach out to me using any of the below socials. I would love to help out in any way that I can 😄.
 
 - **Email:** shaheerairajahmed@gmail.com
-- **LinkedIn:** [linkedin.com/in/shaheerairajahmed](https://www.linkedin.com/in/shaheerairajahmed)
+- **LinkedIn:** [linkedin.com/in/shaheerairaj](https://www.linkedin.com/in/shaheerairaj)
 - **GitHub:** [github.com/shaheerairaj](https://github.com/shaheerairaj)
 
 
