@@ -12,3 +12,6 @@ AI-Engineering-Intermediate/Part1/vector_db/
 # Python cache
 __pycache__/
 **/__pycache__/
+test.ipynb
+test.py
+.ipynb_checkpoints/test-checkpoint.ipynb
